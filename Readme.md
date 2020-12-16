@@ -1,0 +1,1 @@
+This is complete cargo project with booking and tracking features . You can simply use this project by put this folder in  htdocs and import database file un database name global and login with email id Samad0182@gcs.com and password is 1234.
